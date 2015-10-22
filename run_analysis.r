@@ -1,4 +1,3 @@
-https://github.com/cx259/run_analysis.git
 ##Merges the training and the test sets to create one data set.
   setwd("D:\\rprogram\\dataclean\\UCI HAR Dataset") 
  x_train<- read.table("D:\\rprogram\\dataclean\\UCI HAR Dataset\\train\\X_train.txt")
